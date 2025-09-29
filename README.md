@@ -21,8 +21,8 @@ $ node index.js
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: danielborgesdecarvalho@gmail.com
+Email-me: andrewballweberdev0914@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/daniel-carvalho-0a4916122/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/andrewdev14/)
 
 Thank you!
