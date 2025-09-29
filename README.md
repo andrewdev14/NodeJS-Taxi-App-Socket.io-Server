@@ -23,6 +23,6 @@ You can send how many PR's do you want, I'll be glad to analyse and accept them!
 
 Email-me: andrewballweberdev0914@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/andrewdev14/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/andrew-ballweber-772700384/)
 
 Thank you!
